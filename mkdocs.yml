@@ -19,16 +19,16 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
-site_description: >-
+site_name: Terminator
+site_url: https://olgaheru.github.io/mkdocs-material/
+site_author: Olga Hdz
+site_description: >- AAAAMEN A LOS GATITOS. Besos y piquitos <3
   Write your documentation in Markdown and create a professional static site in
   minutes – searchable, customizable, for all devices
 
 # Repository
 repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_url: https://github.com/Olgaheru/mkdocs-material
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2023 Martin Donath
